@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Seoung Mann Sou (서성먼).
+
+I'm a cardiologist.
+
 <!--
 **dr-sou/dr-sou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
